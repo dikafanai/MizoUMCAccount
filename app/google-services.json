@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "276360198562",
+    "firebase_url": "https://secondproject-271b3.firebaseio.com",
+    "project_id": "secondproject-271b3",
+    "storage_bucket": "secondproject-271b3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:276360198562:android:e1bb8c68d6c0ce58",
+        "android_client_info": {
+          "package_name": "com.laldika.mizoumcaccount"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "276360198562-aoasnjkiflno7ljk9acu9jqtveag3iv0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5SqrKbjxPPQ6zSRFYRX6nGa3yAcDYVt4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
